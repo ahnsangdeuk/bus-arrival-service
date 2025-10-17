@@ -127,4 +127,4 @@ if __name__ == '__main__':
     print("📍 사용 가능한 정류장 ID: 1001, 1002, 1003, 1004, 1005")
     print("🚌 사용 가능한 노선 ID: 146, 201, 301")
     print("🌐 서비스 URL: http://localhost:5000")
-    app.run(host='0.0.0.0', port=5000, debug=True)
+    app.run(host='0.0.0.0', port=8080, debug=True)
