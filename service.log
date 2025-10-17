@@ -1,0 +1,8 @@
+🚌 버스 도착 서비스 시작 중...
+📍 사용 가능한 정류장 ID: 1001, 1002, 1003, 1004, 1005
+🚌 사용 가능한 노선 ID: 146, 201, 301
+🌐 서비스 URL: http://localhost:5000
+ * Serving Flask app 'app'
+ * Debug mode: on
+Address already in use
+Port 8080 is in use by another program. Either identify and stop that program, or start the server with a different port.
